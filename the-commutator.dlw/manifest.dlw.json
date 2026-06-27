@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THE_COMMUTATOR",
+  "name": "THE COMMUTATOR",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦THE COMMUTATOR:the-commutator:b9ac42⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "b9ac4281bf8a60099a58138a79efae420108b7424cf27b2e02462a9fa7b83a8f",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
