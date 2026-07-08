@@ -4,6 +4,6 @@ slug  : the-commutator
 seal  : b9ac4281bf8a60099a58138a79efae420108b7424cf27b2e02462a9fa7b83a8f
 prev  : 927c0ee5cf2141e1a44a627157df751007ce36f2d535da8b514efd7fb42c0efa
 link  : 09bc9228c46b8e2ab6216680343575f340e45cdb11f37818df7d1b68fcf8461f
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
